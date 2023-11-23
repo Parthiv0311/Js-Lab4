@@ -22,7 +22,7 @@
             "Mango Chunks",
             "Vanilla Base"
         ],
-        "image": "https://github.com/Parthiv0311/Js-Lab4/blob/main/images/peach-mango.svg"
+        "image": "https://parthiv0311.github.io/Js-Lab4/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 400,
@@ -32,7 +32,7 @@
             "Some Sprinkles",
             "Vanilla Base"
         ],
-        "image": "https://github.com/Parthiv0311/Js-Lab4/blob/main/images/strawberry-sprinkle.svg"
+        "image": "https://parthiv0311.github.io/Js-Lab4/images/strawberry-sprinkle.svg"
     },{
         "name": "Vanilla Classic",
         "calories": 280,
@@ -42,7 +42,7 @@
             "Smoothed Cream",
             "Candy Cane Sugar"
         ],
-        "image": "https://github.com/Parthiv0311/Js-Lab4/blob/main/images/ice-cream-xtra1.svg" 
+        "image": "https://parthiv0311.github.io/Js-Lab4/images/ice-cream-xtra1.svg" 
     },
     {
         "name": "Raspberry Ripple",
@@ -53,7 +53,7 @@
             "Lemon-Strawberry Juice",
             "Cotton Candy Whip"
         ],
-        "image": "https://github.com/Parthiv0311/Js-Lab4/blob/main/images/ice-cream-xtra2.svg" 
+        "image": "https://parthiv0311.github.io/Js-Lab4/images/ice-cream-xtra2.svg" 
     }
     ]
 }
